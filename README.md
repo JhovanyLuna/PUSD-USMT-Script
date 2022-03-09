@@ -20,7 +20,12 @@ Most of the Applications currently being used by PUSD devices have been transfer
 Cleaning applications, files, video and photos that might not be needed should not be transferred.
 You should always install the applications that will be needed before you run the LoadState Command.
 
-EXAMPLES:
+EXAMPLES OF SETUP:
+1.Move script and adksetup to desktop of old/new machines
+![Desktop](https://user-images.githubusercontent.com/79068398/157495869-1301d3e0-9dc3-4b9e-88ac-bf87c40af127.PNG)
+
+
+2. Run the Scan/Load State script.
 ![USMT Install Steps](https://user-images.githubusercontent.com/79068398/157495489-30bebe2a-135b-4432-bb56-76b800b2accf.PNG)
 
 
