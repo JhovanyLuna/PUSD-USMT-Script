@@ -16,8 +16,8 @@ REQUIREMENTS
 
 NOTES
 The script so far has been able to transfer most app data. It does have some problems with applications. 
-Most of the Applications currently being used by PUSD devices have been transfered correctly. 
-Cleaning applications, files, video and photos that might not be need on the new device would be ideal, before running the Scanstate. 
+Most of the Applications currently being used by PUSD devices have been transferred correctly. 
+Cleaning applications, files, video and photos that might not be needed should not be transferred.
 You should always install the applications that will be needed before you run the LoadState Command.
 
 
@@ -25,9 +25,9 @@ You should always install the applications that will be needed before you run th
 
 USMT DOWNLOAD LINKS/NOTES:
 
-I will be attaching a Zip folder with the adksetup.exe. This executable is just an installer. You will need internet connection to
+I will be attaching a Zip folder with the adksetup.exe. This executable is just an installer. You will need internet connection to have this work. I would place the adksetup.exe on the desktop. 
 complete the USMT install. 
 
-You can either use the file zip file provided or download your own. 
+You can either use the zip file provided or download your own. 
 
-LINK:
+LINK:https://go.microsoft.com/fwlink/?linkid=2165884
