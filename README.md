@@ -21,6 +21,7 @@ Cleaning applications, files, video and photos that might not be needed should n
 You should always install the applications that will be needed before you run the LoadState Command.
 
 EXAMPLES OF SETUP:
+
 1.Move script and adksetup to desktop of old/new machines
 ![Desktop](https://user-images.githubusercontent.com/79068398/157495869-1301d3e0-9dc3-4b9e-88ac-bf87c40af127.PNG)
 
