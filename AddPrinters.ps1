@@ -15,6 +15,8 @@
     General notes
 #>
 ##################################DO NOT USE THIS PROGRAM. CURRENTLY NOT WORKING#########################################################
+##################################DO NOT USE THIS PROGRAM. CURRENTLY NOT WORKING#########################################################
+##################################DO NOT USE THIS PROGRAM. CURRENTLY NOT WORKING#########################################################
 #Setting up the Hashtable for the Printer information and creation 
 $Printers = @{
     firstPrinter =@{
