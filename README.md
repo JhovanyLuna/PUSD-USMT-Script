@@ -30,4 +30,8 @@ complete the USMT install.
 
 You can either use the zip file provided or download your own. 
 
-LINK:https://go.microsoft.com/fwlink/?linkid=2165884
+DOWNLOAD LINK:https://go.microsoft.com/fwlink/?linkid=2165884
+
+ADK MANUALS/HELP: https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install
+
+USMT TECHNICAL REFERENCE: https://docs.microsoft.com/en-us/windows/deployment/usmt/usmt-technical-reference
