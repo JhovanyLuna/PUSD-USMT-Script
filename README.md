@@ -32,8 +32,8 @@ EXAMPLES OF SETUP:
 
 USMT DOWNLOAD LINKS/NOTES:
 
-I will be attaching a Zip folder with the adksetup.exe. This executable is just an installer. You will need internet connection to have this work. I would place the adksetup.exe on the desktop. 
-complete the USMT install. 
+I will be attaching a Zip folder with the adksetup.exe. This executable is just an installer. You will need internet connection to download and install the USMT tool. I would place the adksetup.exe on the desktop. 
+
 
 You can either use the zip file provided or download your own. 
 
