@@ -44,7 +44,8 @@ switch ($USMTInstall){
   1{
     $Install_USMT_Check = Test-Path -Path 'C:\Program Files (x86)\Windows Kits\10\Assessment and Deployment Kit\User State Migration Tool\amd64'
     if($Install_USMT_Check -eq $true){
-      Write-Host 'Moving on.......'
+      Write-Host 'USMT Was Found'
+      Write-Host 'Moving on..........'
     }Else{
       Write-Host "USMT Kit Not Found!" -ForegroundColor Yellow 
       Write-Host "Install USMT and Run again"
